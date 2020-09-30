@@ -51,3 +51,7 @@ Programa em Python
 ```py
 print('Olá mundo!')
 ```
+
+Para emojis, usar ::
+
+Usar '>' para respostas
